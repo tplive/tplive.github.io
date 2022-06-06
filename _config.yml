@@ -29,7 +29,7 @@ twitter_username: qvidahl
 github_username:  tplive
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
