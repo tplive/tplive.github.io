@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Hjemmeside, check!"
+author: "Thomas Qvidahl"
 date: 2022-06-06 13:37:00 +0200
-categories: norsk update
+categories: news
+tags: norwegian
 ---
 
 Da fikk jeg omsider ut fingeren og fikk laget en Github Pages side. Jeg _tror_ denne kommer til å erstatte det andre prosjektet mitt, jeg orker rett og slett ikke å holde det oppdatert! 😅
