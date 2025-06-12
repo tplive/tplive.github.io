@@ -1,8 +1,9 @@
----
-layout: page
-title: About
-permalink: /about/
----
++++
+title = "About"
+date = 2025-06-12
+categories = "info"
+tags = "english"
++++
 
 All websites need an About-page, right? Well, here is mine.. 😁
 

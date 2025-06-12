@@ -1,8 +1,7 @@
----
-layout: page
-title: Miami 2022
-permalink: /miami/
----
++++
+title = "Miami 2022"
+date = 2022-07-11
++++
 
 ~~Årets ferietur går til Miami, Florida, USA~~
 
