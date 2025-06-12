@@ -1,11 +1,10 @@
----
-layout: post
-title: "NSM Grunnprinsipper sikkerhetskurs"
-author: "Thomas Tergeren"
-date: 2022-10-11 14:24:00 +0200
-categories: news
-tags: norwegian security
----
++++
+title = "NSM Grunnprinsipper sikkerhetskurs"
+author = "Thomas Tergeren"
+date = 2022-10-11
+categories = "news"
+tags = "norwegian, security"
++++
 
 Nasjonal Sikkerhets Myndighet (NSM) har i forbindelse med at Oktober er "Security Awareness Month", gjort sitt kurs i NSM sine grunnprinsipper fritt tilgjengelig for alle. Dette er jo et bra tiltak for å sette fokus på datasikkerhet, men holder kurset akseptabel kvalitet? Dette måtte jeg sjekke ut! 😁
 

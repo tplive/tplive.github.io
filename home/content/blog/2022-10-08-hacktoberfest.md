@@ -1,11 +1,10 @@
----
-layout: post
-title: "Hacktoberfest in 2022"
-author: "Thomas Tergeren"
-date: 2022-10-08 15:09:00 +0200
-categories: news
-tags: english openSource
----
++++
+title = "Hacktoberfest in 2022"
+author = "Thomas Tergeren"
+date = 2022-10-08
+categories = "news"
+tags = "english, openSource"
++++
 
 So it's that time of year again! October means Hacktober, and Digital Ocean are following up previous years and sponsoring the event.
 

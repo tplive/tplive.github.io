@@ -1,11 +1,10 @@
----
-layout: post
-title: "Kudos til Kudos"
-author: "Thomas Tergeren"
-date: 2022-10-10 12:53:00 +0200
-categories: news
-tags: norwegian openSource
----
++++
+title = "Kudos til Kudos"
+author = "Thomas Tergeren"
+date = 2022-10-10
+categories = "news"
+tags = "norwegian, openSource"
++++
 
 Jeg ble gjort oppmerksom på den nylige lanseringen av Kudos, en ny søkemotor for offentlige dokumenter i Norge. Jeg har spørsmål... 😅
 
