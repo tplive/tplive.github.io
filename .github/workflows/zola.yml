@@ -3,7 +3,7 @@ name: Deploy Zola site to Pages
 on:
   push:
     branches: ["main"]
-    workflow_dispatch:
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -23,7 +23,7 @@ jobs:
       - name: Install Zola
         uses: taiki-e/install-action@v2
         with:
-          tool: zola@0.19.1
+          tool: zola@0.20.0
       - name: Build site
         run: zola build
       - name: Upload artifact
