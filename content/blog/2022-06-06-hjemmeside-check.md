@@ -1,8 +1,7 @@
 +++
 title = "Hjemmeside, check!"
-author = "Thomas Tergeren"
 date = 2022-06-06
-categories = "news"
+author = "Thomas Tergeren"
 tags = "norwegian"
 +++
 

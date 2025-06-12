@@ -1,3 +1,8 @@
+title = "tplive home"
+description = "musings and ramblings from tplive"
+default_language = "no"
+author = "Thomas Tergeren"
+
 # The URL the site will be built for
 base_url = "https://tplive.github.io"
 
